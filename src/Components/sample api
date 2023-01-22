@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith, Holly Ellyatt",
+            "title": "European markets retreat as investors gauge inflation outlook, Fed comments  CNBC",
+            "description": "Europe markets retreated as investors gear up for more inflation data later this week, with U.S. consumer price data for December due Thursday.",
+            "url": "https://www.cnbc.com/2023/01/10/europeanmarketsliveupdatesstocksnewsdataandearnings.html",
+            "urlToImage": "https://www.youtube.com/watch?v=jl1zsiAv9U",
+            "publishedAt": "20230110T09:05:00Z",
+            "content": "European markets are heading for a lower open as investors gear up for more inflation data later this week, with U.S. consumer price data for December due Thursday.\r\nThe U.K.'s FTSE 100 index is expe… [+419 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube" 
+            },
+            "author": null,
+            "title": "Historic UK rocket launch ends in failure – BBC News  BBC News",
+            "description": "The first ever satellite mission launched from UK soil has ended in failure.A jumbo jet operated by the American Virgin Orbit company carried a rocket out of...",
+            "url": "https://www.youtube.com/watch?v=jl1zsiAv9U",
+            "urlToImage": "https://i.ytimg.com/vi/jl1zsiAv9U/hqdefault.jpg",
+            "publishedAt": "20230110T07:53:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Joe Toppe",
+            "title": "Bed Bath & Beyond’s day of reckoning  Fox Business",
+            "description": "Days after disclosing bankruptcy is a real possibility, Bed Bath & Beyond, on Tuesday, will update investors on what’s ahead for the embattled home retailer which has been plagued with falling sales, allegations of financial fraud which surfaced following the…",
+            "url": "https://www.foxbusiness.com/markets/bedbathbeyondsdayreckoning",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/bedbathbeyond03.jpg?ve=1&tl=1",
+            "publishedAt": "20230110T07:04:57Z",
+            "content": "This story discusses suicide. If you or someone you know is having thoughts of suicide, please contact the Suicide &amp; Crisis Lifeline at 988 or 1800273TALK (8255).\r\nBed Bath &amp; Beyond shareh… [+4949 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Asia shares dip on hawkish Fed remarks; recession risk weighs on commodities, oil  Reuters",
+            "description": "Asian shares fell on Tuesday, commodities shed recent gains from China's reopening, and oil traded lower following hawkish comments from two U.S. Federal Reserve officials overnight, with investors turning cautious ahead of key inflation data.",
+            "url": "https://www.reuters.com/markets/globalmarketswrapup120230110/",
+            "urlToImage": "https://www.reuters.com/resizer/J9yWDCDc49ri7TF1oZqMTuFRfVc=/1200x628/smart/filters:quality(80)/cloudfrontuseast2.images.arcpublishing.com/reuters/NX7BPG5IQZIRHBQO5FTWRTPXIY.jpg",
+            "publishedAt": "20230110T06:28:00Z",
+            "content": "HONG KONG, Jan 10 (Reuters)  Asian shares fell on Tuesday, commodities shed recent gains from China's reopening, and oil traded lower following hawkish comments from two U.S. Federal Reserve officia… [+3101 chars]"
+        }
+    ]
+}
